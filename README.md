@@ -28,4 +28,5 @@ Limitations
 Changelog
 ---------
 
+- 1.0.4 - Declared support for both the 3.3 and 3.8 plugin hosts, so Sublime Text 4 runs this on its modern Python 3.8 host instead of the legacy 3.3 compatibility host.
 - 1.0.3 - Fixed `AttributeError` on Sublime Text 4's Python 3.3 plugin host and corrected the Default-settings palette entry path.
