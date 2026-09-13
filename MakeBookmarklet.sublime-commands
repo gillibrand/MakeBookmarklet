@@ -5,7 +5,7 @@
 	    "caption": "Preferences: Make Bookmarklet – Default",
 	    "command": "open_file",
 	    "args": {
-	        "file": "${packages}/MakeBookmarklet/MakeBookmarklet.sublime-settings"
+	        "file": "${packages}/Make Bookmarklet/MakeBookmarklet.sublime-settings"
 	    }
 	},
 	{
