@@ -1,4 +1,4 @@
-import sublime, sublime_plugin, re, urllib
+import sublime, sublime_plugin, re, urllib.parse
 
 EXISTING_JS_COMMENT_RE          = re.compile(r'^// ?javascript:.+', re.M)
 
